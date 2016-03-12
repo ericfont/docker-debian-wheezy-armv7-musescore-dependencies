@@ -1,4 +1,4 @@
-FROM resin/armv7hf-debian-qemu
+FROM ericfont/armv7hf-debian-qemu
 
 RUN [ "cross-build-start" ]
 
